@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT koding_3860.wsgi:application
